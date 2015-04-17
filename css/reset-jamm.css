@@ -1,5 +1,16 @@
 .navbar{
-  height:83px;
+  height:85px;
   background-color: white;
   border-color: white;
+}
+
+.logo{
+  height: 53px;
+  width: 200px;
+
+}
+
+.container-fluid{
+  padding-right: 0;
+  padding-left: 0;
 }
